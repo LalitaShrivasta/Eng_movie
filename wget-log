@@ -1,0 +1,7 @@
+--2019-01-06 12:27:51--  https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+Resolving dl.google.com (dl.google.com)... 172.217.163.78, 2404:6800:4007:803::200e
+Connecting to dl.google.com (dl.google.com)|172.217.163.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56611204 (54M) [application/x-debian-package]
+Saving to: ‘google-chrome-stable_current_amd64.deb’
+

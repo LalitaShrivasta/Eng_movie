@@ -1,0 +1,5 @@
+.ant-layout-sider {
+    transition: all 0.2s;
+    position: relative;
+    background: #03095e;
+}

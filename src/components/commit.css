@@ -1,0 +1,29 @@
+ .input-field{
+  width: 636px;
+  height: 168px;
+  margin-left: 197px;
+}
+h1{
+  margin-top: 150px;
+  margin-left: 157px;
+
+}
+.header-text{
+  font-weight: bold;
+  font-size: 37px;
+  color: #fafafa;
+  margin-bottom: "40px";
+}
+.btn{
+  margin-top: 26px;
+  width: 115px;
+  height: 45px;
+  margin-left: 140px;
+  background-color: aqua;
+  font-size: 18px;
+}
+/* .body {
+   background-image: url("https://i.ytimg.com/vi/dYimfN1pfDI/maxresdefault.jpg");
+ } */
+ 
+
